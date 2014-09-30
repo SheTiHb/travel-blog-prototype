@@ -1,0 +1,15 @@
+#main_content {
+	background-color: black
+}
+
+h1 {
+    font-family: Helvetica, Georgia, serif;
+    color: white;
+    border-style: solid white
+}
+
+h1 {font-size:2em;}
+
+body {
+    background-color: black;
+}
